@@ -1,0 +1,74 @@
+.alert{
+    padding: 0.25rem 0.75rem;
+}
+
+.alert ul {
+    margin-bottom: 0.5rem;
+}
+
+form.form-inline .form-group label {
+    margin-right: 0.5rem;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #718096;
+    border-color: #718096;
+}
+
+.select2-container--bootstrap .select2-selection--single {
+    height: 40px !important;
+    padding: 8px 24px 8px 12px !important;
+}
+
+.topbar .nav-item .nav-link .badge-counter {
+    left: 0;
+    right: auto;
+    margin-top: -14px;
+    font-size: 14px;
+}
+
+.tab-pane .alert {
+    margin-top: 1.25rem;
+}
+
+.tab-pane .card-body {
+    padding: 0 1.25rem;
+}
+
+.legend-color,
+.seating a {
+    color: #000 !important;
+}
+
+.dt-top {
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.dt-bottom {
+    display: flex !important;
+    justify-content: space-between;
+    margin-top: 1.5rem!important;
+}
+
+.dataTables_length label {
+    display: flex !important;
+}
+
+.dt-pagemenu {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.dt-pagemenu.llabel {
+    margin-right: 0.25rem!important;
+}
+
+.dt-pagemenu.rlabel {
+    margin-left: 0.25rem!important;
+}
+.form-inline-button{
+    margin-left: 0.25rem!important;
+}
